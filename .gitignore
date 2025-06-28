@@ -16,3 +16,8 @@ ParkingSystem/.vs/ParkingSystem/v17/.suo
 bin/
 obj/
 ParkingSystem/obj/Debug/net8.0/
+ParkingSystem/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfo.cs
+ParkingSystem/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfo.cs
+ParkingSystem/obj/Debug/net8.0/ParkingSystem.GlobalUsings.g.cs

@@ -53,7 +53,7 @@
                     decimal totalPrice = InitialPrice + (HourlyRate * Math.Max(hours - 1, 0));
                     Vehicles.Remove(formattedPlate);
                     Console.WriteLine($"Vehicle {formattedPlate} removed.");
-                    Console.WriteLine($"Total price: ${totalPrice:F2}");
+                    Console.WriteLine($"Total price: R${totalPrice:F2}");
                 }
                 else
                 {

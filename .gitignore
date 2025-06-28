@@ -13,3 +13,5 @@
 *.props
 *.targets
 ParkingSystem/.vs/ParkingSystem/v17/.suo
+bin/
+obj/

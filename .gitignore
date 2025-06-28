@@ -1,0 +1,15 @@
+*.dll
+*.v2
+*.vsidx
+.vs/Orientação_objetos/v17/.suo
+*.json
+*.bin
+*.exe
+*.pdb
+*.cache
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
+*.props
+*.targets
+ParkingSystem/.vs/ParkingSystem/v17/.suo
